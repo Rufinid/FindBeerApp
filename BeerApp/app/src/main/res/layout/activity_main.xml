@@ -25,6 +25,7 @@
         android:layout_margin="16dp"
         android:text="@string/find_beer" />
 
+
     <TextView
         android:id="@+id/brands"
         android:layout_width="wrap_content"
@@ -32,5 +33,22 @@
         android:layout_gravity="center"
         android:layout_margin="16dp"
         android:text="@string/brands" />
+
+    <Button
+        android:id="@+id/add_custom_beer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="16dp"
+        android:text="@string/add_beer" />
+
+    <EditText
+        android:id="@+id/custom_beer_input"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="48dp"
+        android:minHeight="48dp"
+        android:text="Add your beer" />
 
 </LinearLayout>
