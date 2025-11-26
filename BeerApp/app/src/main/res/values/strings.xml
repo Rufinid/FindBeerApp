@@ -3,6 +3,7 @@
     <string name="find_beer">Find Beer</string>
     <string name="beer_types">Beer types</string>
     <string name="brands">No beer selected</string>
+    <string name="add_beer">Add Beer</string>
     <string-array name="beer_colors">
         <item>Light</item>
         <item>Amber</item>
